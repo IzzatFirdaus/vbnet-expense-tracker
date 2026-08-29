@@ -1,0 +1,12 @@
+=== VB.NET Personal Expense Tracker ===
+
+--- All Recorded Transactions ---
+[2026-08-29] ID: 1 | Infrastructure | Cloud Server Hosting - $45.50
+[2026-08-29] ID: 2 | Infrastructure | Domain Registration - $12.00
+[2026-08-29] ID: 3 | Operations | Office Supplies - $25.75
+
+Total Overall Expenses: $83.25
+
+--- Filtered: Infrastructure Category ---
+[2026-08-29] ID: 1 | Infrastructure | Cloud Server Hosting - $45.50
+[2026-08-29] ID: 2 | Infrastructure | Domain Registration - $12.00
